@@ -1,0 +1,8 @@
+-Readme-
+
+Face recognition :
+- haarcascade_frontalface_default.xml
+- dataset_faces.dat
+- dataset_face.dat
+- dataset recognition.py
+- facerecog8.py
